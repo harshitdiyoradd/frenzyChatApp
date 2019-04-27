@@ -13,7 +13,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
-      title: "Chat App",
+      title: "Chat App with git",
       home: new HomePage(),
     );
   }
